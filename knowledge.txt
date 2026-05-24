@@ -1,0 +1,53 @@
+# Réinitialisation du mot de passe
+Si vous avez oublié votre mot de passe ou souhaitez le modifier :
+1. Accédez à la section "Paramètres"
+2. Cliquez sur "Sécurité"
+3. Sélectionnez "Réinitialiser le mot de passe"
+4. Suivez les instructions affichées
+Un email de confirmation peut être envoyé pour valider la modification.
+
+# Création de compte
+Pour créer un compte :
+1. Cliquez sur "S'inscrire"
+2. Remplissez les informations demandées (nom, email, mot de passe)
+3. Validez votre inscription
+Un email de confirmation peut être nécessaire pour activer votre compte.
+
+# Connexion au compte
+Pour vous connecter :
+1. Entrez votre adresse email
+2. Saisissez votre mot de passe
+3. Cliquez sur "Se connecter"
+En cas d’erreur, vérifiez vos identifiants ou réinitialisez votre mot de passe.
+
+# Virements bancaires
+Les virements bancaires sont généralement traités dans un délai de 24 heures.
+Ce délai peut varier en fonction des jours ouvrables ou de votre banque.
+
+# Paiement refusé
+Un paiement peut être refusé pour plusieurs raisons :
+- Solde insuffisant
+- Problème avec la carte bancaire
+- Limite de paiement atteinte
+Nous vous conseillons de vérifier vos informations ou de contacter votre banque.
+
+# Modification des informations personnelles
+Pour modifier vos informations :
+1. Accédez à votre profil
+2. Cliquez sur "Modifier"
+3. Mettez à jour vos informations
+4. Enregistrez les modifications
+
+
+# Sécurité du compte
+Pour sécuriser votre compte :
+- Utilisez un mot de passe fort
+- Ne partagez jamais vos identifiants
+- Déconnectez-vous après utilisation sur un appareil public
+
+# Suppression de compte
+Pour supprimer votre compte :
+1. Accédez aux paramètres
+2. Cliquez sur "Supprimer le compte"
+3. Confirmez votre demande
+Attention : cette action est irréversible.

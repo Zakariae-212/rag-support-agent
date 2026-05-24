@@ -1,0 +1,5 @@
+ollama
+pydantic
+sentence-transformers
+faiss-cpu
+numpy
